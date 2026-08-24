@@ -1,6 +1,6 @@
 # 鲜汇优选（FreshMart）生鲜 O2O 会员运营与履约分析
-
-> 面向数据分析 / BI 作品集的高仿真生鲜 O2O 业务数据与交付物，**完全虚构**，仅供学习与展示。
+# https://public.tableau.com/shared/S9YC7GK73?:display_count=n&:origin=viz_share_link
+> 面向数据分析 / BI 作品集的脱敏生鲜 O2O 业务数据与交付物，**完全虚构**，仅供学习与展示。
 
 ## 简历项目名
 
